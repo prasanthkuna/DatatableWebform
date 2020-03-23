@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTableAPI", "DataTableAPI\DataTableAPI.csproj", "{1E7D9B4D-CDF5-4E0B-9C94-9151FB5644C8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTableUI", "DataTableUI\DataTableUI.csproj", "{778AEFBD-261A-4AFC-A447-233BE545141B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E7D9B4D-CDF5-4E0B-9C94-9151FB5644C8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E7D9B4D-CDF5-4E0B-9C94-9151FB5644C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E7D9B4D-CDF5-4E0B-9C94-9151FB5644C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E7D9B4D-CDF5-4E0B-9C94-9151FB5644C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{778AEFBD-261A-4AFC-A447-233BE545141B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{778AEFBD-261A-4AFC-A447-233BE545141B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{778AEFBD-261A-4AFC-A447-233BE545141B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{778AEFBD-261A-4AFC-A447-233BE545141B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8EDBAE90-8E38-4270-8962-2B3B29D1DE4C}
+	EndGlobalSection
+EndGlobal
